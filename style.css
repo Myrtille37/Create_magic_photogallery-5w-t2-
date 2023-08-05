@@ -1,0 +1,115 @@
+.fotogalery{
+    font-family: 'Lumanosimo', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 1000;
+    font-style: italic;
+    font-size: larger;
+}
+.nav{
+    display: flex;
+    align-items: stretch;
+    background-color:burlywood;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+    font-weight: 1000;
+    font-style: italic;
+    font-size: larger; 
+}
+.luna{
+    display: flex;
+    background-color: rgb(205, 171, 238);
+    align-items: center;
+    justify-content: space-evenly;
+    width: 100%;
+    height: 300px;
+}
+.luna1 luna2 luna3{
+    height: auto;
+    width: 30%;
+}
+.zelie{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgb(205, 171, 238);
+    align-items: center;
+    justify-content: space-evenly;
+    width: 100%;
+    height: 700px;
+    justify-content: space-evenly;
+    align-content: space-around;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: flex-end;
+}
+.zelie1 zelie2 zelie3 zelie4 zelie5{
+    height: auto;
+    width: 15%;
+}
+.wand{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgb(205, 171, 238);
+    align-items: center;
+    justify-content: space-evenly;
+    width: 100%;
+    height: 500px;
+    justify-content: space-evenly;
+    align-content: space-around;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: stretch;   
+}
+.wand1 wand2 wand3{
+    height: auto;
+    width: 30%;
+} 
+.hat{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgb(205, 171, 238);
+    align-items: center;
+    justify-content: space-evenly;
+    width: 100%;
+    height: 500px;
+    justify-content: space-evenly;
+    align-content: space-around;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: stretch;     
+}
+.hat1 hat2 hat3{
+    height: auto;
+    width: 20%;
+}
+.kontakti{
+    font-family: 'Lumanosimo', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 800;
+    font-style:oblique;
+    font-size:x-large;  
+} 
+.adres{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 800;
+    font-style: italic;
+    font-size:medium; 
+    color:rgb(47, 3, 58);
+}
+.telephone{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 800;
+    font-style: italic;
+    font-size:medium; 
+    color:rgb(47, 3, 58);   
+}
+.podpiska{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 500;
+    font-style: oblique;
+    font-size:small;
+    color:rgb(78, 5, 66); 
+    
+}
+.scale {
+    transition: 1s; /* Время эффекта */
+}
+    .scale:hover {
+    transform: scale(1.2); /* Увеличиваем масштаб */
+    }
