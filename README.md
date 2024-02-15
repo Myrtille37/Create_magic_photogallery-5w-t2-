@@ -1,3 +1,2 @@
-# 5week.Task2
+Create magic gallary. (5week.Task2)
 
-Неделя 5, задание 2. Создать волшебную фотогалерею.
